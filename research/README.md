@@ -8,7 +8,8 @@
 |---|---|
 | [`00_stage1_wide_filter.md`](00_stage1_wide_filter.md) | Stage 1 宽筛：63 题按主题分 5 组并行打分（V/R/H/S/C 五维），跨组 Top 12 + 黑名单 + 五个战略选型框 |
 | [`01_stage2_final_recommendation.md`](01_stage2_final_recommendation.md) | Stage 2 最终决策：Top 10 重排、主攻 + 保底 + 弃选、前两周启动 checklist、横向 Skill 路线图 |
-| `02_deep_dives/proj*.md` | Top 10 候选题的逐题深度可行性报告（~1700 词/份） |
+| `02_deep_dives/proj*.md` | 13 份逐题深度可行性报告（~1700-2700 词/份），含 proj6/9/11/18/22/32/34/41/47/49/52/53/61 |
+| [`03_final_comparison.md`](03_final_comparison.md) | **最终 5 题（proj18/41/52/53/61）深度对比表**，含 AI 在每题对应技术栈的子系统级成熟度评分 |
 
 ## 一句话结论
 
